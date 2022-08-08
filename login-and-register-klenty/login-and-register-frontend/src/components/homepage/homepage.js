@@ -1,6 +1,6 @@
 import React from "react"
 import "./homepage.css"
-import Comments  from "../comments"
+import Comments  from "../comments/Comments"
 
 const Homepage = ({setLoginUser}) => {
     return (

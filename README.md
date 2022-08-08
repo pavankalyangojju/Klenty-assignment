@@ -39,6 +39,21 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+# Using Tech Stacks
+## 1) React.js
+## 2) Node.js
+## 3) Mongoose
+## 4) MongoDB
+## 5) HTML
+## 6) CSS
+## 7) SASS
+## 8) Redux
+
+
+# Deploy Server/Platform
+## Heroku
+
+
 # OUTPUT'S
 ## REGISTER PAGE
 ![register page](https://user-images.githubusercontent.com/95854682/183359370-3c38aff8-48d2-4113-9a8f-543f36e981c2.jpeg)

@@ -15,11 +15,14 @@ const Comment = ({
     activeComment &&
     activeComment.id === comment.id &&
     activeComment.type === "editing";
+
+
   const isReplying =
     activeComment &&
     activeComment.id === comment.id &&
     activeComment.type === "replying";
   const fiveMinutes = 300000;
+
   const timePassed = new Date() - new Date(comment.createdAt) > fiveMinutes;
   const canDelete =
     currentUserId === comment.userId && replies.length === 0 && !timePassed;
@@ -27,6 +30,9 @@ const Comment = ({
   const canEdit = currentUserId === comment.userId && !timePassed;
   const replyId = parentId ? parentId : comment.id;
   const createdAt = new Date(comment.createdAt).toLocaleDateString();
+
+
+  
   return (
     <div key={comment.id} className="comment">
       <div className="comment-image-container">

@@ -46,8 +46,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## 4) MongoDB
 ## 5) HTML
 ## 6) CSS
-## 7) SASS
-## 8) Redux
+## 7) Redux
 
 
 # Deploy Server/Platform

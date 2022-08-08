@@ -83,7 +83,26 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## User already register again register comes a alert in register page
 ![User already register again register comes a alert in register page](https://user-images.githubusercontent.com/95854682/183364895-462e351d-9f42-49e7-96df-861cadff7734.jpeg)
 
-## //////////////
+# Comments Page Upadates
+## Comments Page
+![WhatsApp Image 2022-08-08 at 10 30 32 PM](https://user-images.githubusercontent.com/95854682/183474811-609fab21-8e18-4648-bc88-a98a1ba17c4e.jpeg)
+## Write a comment
+![WhatsApp Image 2022-08-08 at 10 31 04 PM](https://user-images.githubusercontent.com/95854682/183474998-e9efe1b1-b63e-4b4a-960f-bf70d3e84f20.jpeg)
+## Post the comment and comment count is increment
+![WhatsApp Image 2022-08-08 at 10 32 42 PM](https://user-images.githubusercontent.com/95854682/183475172-1e389f52-ac02-49e4-bcbf-b04681e51068.jpeg)
+## Reply Given Comment
+![WhatsApp Image 2022-08-08 at 10 33 32 PM](https://user-images.githubusercontent.com/95854682/183475433-052204c8-63c0-41f9-ad4b-48523a202137.jpeg)
+## Type the reply
+![WhatsApp Image 2022-08-08 at 10 34 26 PM](https://user-images.githubusercontent.com/95854682/183475637-fa325169-5247-44df-8315-a126c361a583.jpeg)
+## Reply
+![WhatsApp Image 2022-08-08 at 10 35 10 PM](https://user-images.githubusercontent.com/95854682/183475785-d1e5a4c3-5703-47c3-bf17-ab1e414354c3.jpeg)
+## Add something Post the comment
+![WhatsApp Image 2022-08-08 at 10 38 12 PM](https://user-images.githubusercontent.com/95854682/183475920-3ccdd741-9e19-4fed-ba38-63f53faa518c.jpeg)
+## Reply or Comment Delete or remove
+![WhatsApp Image 2022-08-08 at 10 39 26 PM](https://user-images.githubusercontent.com/95854682/183476099-30c0ab98-0b50-4c95-8c27-09faac80a180.jpeg)
+## successfully Delete comments
+![WhatsApp Image 2022-08-08 at 10 40 00 PM](https://user-images.githubusercontent.com/95854682/183476294-ece40c81-ae7d-441d-9c92-4001ecd9b363.jpeg)
+
 
 ## Learn More
 

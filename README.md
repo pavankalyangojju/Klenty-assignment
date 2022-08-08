@@ -39,6 +39,38 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+# OUTPUT'S
+## REGISTER PAGE
+![register page](https://user-images.githubusercontent.com/95854682/183359370-3c38aff8-48d2-4113-9a8f-543f36e981c2.jpeg)
+## Fill The Details In Register Page
+![Fill the details in register page](https://user-images.githubusercontent.com/95854682/183360102-28250203-f7c2-49e7-983d-a777bf811439.jpeg)
+## Alert Register Page
+![register alert](https://user-images.githubusercontent.com/95854682/183360363-63a9d2cf-a9a7-4c3a-9463-08f51d3ba96e.jpeg)
+## Not Match The Input value in Register Page in comes alert
+![Not match rigister page inputs](https://user-images.githubusercontent.com/95854682/183360981-9ed4b69a-dc34-422e-9e61-d3c0291cffa5.jpeg)
+## Register Data in Console Page
+![register data in console page](https://user-images.githubusercontent.com/95854682/183361974-45303bc1-dd20-43e0-b333-c9a7432a88fb.jpeg)
+## LOGIN PAGE
+![Login page](https://user-images.githubusercontent.com/95854682/183359680-a94d1d35-21ee-45b4-acba-5c94dc797381.jpeg)
+## Fill The Details in Login page Click the button comes a alert
+![Login page alert](https://user-images.githubusercontent.com/95854682/183361463-e7a54381-3687-4775-9d82-fbb2fc34302b.jpeg)
+## Login Data in Network Page
+![Login data in network Page](https://user-images.githubusercontent.com/95854682/183362269-dfde2b68-daf1-41cf-8965-eb3ddf7440dc.jpeg)
+## Fill the Details in Login Page Click the button comes a alert
+![Login page alert](https://user-images.githubusercontent.com/95854682/183362901-8631e5e5-a2d7-41db-8aed-b1ed4d389327.jpeg)
+
+## All Data in DATABASE(MONGODB)
+![Data in database](https://user-images.githubusercontent.com/95854682/183363304-57dd9925-ae56-4876-8cf1-ef1e82907088.jpeg)
+
+## not Register user try to login comes a alert
+![not Register user try to login comes a alert](https://user-images.githubusercontent.com/95854682/183364218-11771722-e686-4fb4-b46a-ddecca4467ab.jpeg)
+## type the wrong password try to login come a alert in login page
+![type the wrong password try to login come a alert in login page](https://user-images.githubusercontent.com/95854682/183364726-007a2d2e-5136-4c1a-ada6-756adde2cdcf.jpeg)
+## User already register again register comes a alert in register page
+![User already register again register comes a alert in register page](https://user-images.githubusercontent.com/95854682/183364895-462e351d-9f42-49e7-96df-861cadff7734.jpeg)
+
+## //////////////
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).

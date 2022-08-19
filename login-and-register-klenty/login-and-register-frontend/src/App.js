@@ -13,6 +13,7 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
+          <Comments/>
           <Route exact path="/">
             {
               user && user._id ? <Homepage setLoginUser={setLoginUser} /> : <Login setLoginUser={setLoginUser}/>
